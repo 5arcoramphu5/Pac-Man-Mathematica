@@ -3,7 +3,7 @@
 
 ## Description
 
-<img style="float: right;" alt = "screenshot" height = "400" src="readme_files/screen.png">
+<img align="right" alt = "screenshot" height = "400" src="readme_files/screen.png">
 
 Simple Pac-Man game written in Wolfram Mathematica. File contains a single cell returing an interactive image as output. It is possible to upload a custom map from a bitmap (more information below).
 
