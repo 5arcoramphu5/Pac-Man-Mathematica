@@ -17,6 +17,7 @@ To upload the map drop it in the `pac_man.nb` file in a place marked by a commen
 
 | color  | hex | meaning |
 | ------ | --- | ------- |
+| black | #000000 | a wall |
 | white | #ffffff | space to be filled with dots |
 | red   | #ff0000 | empty space |
 | green | #00ff00 | places where ghosts should be spawned |
